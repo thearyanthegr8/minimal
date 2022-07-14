@@ -144,3 +144,12 @@ nav {
   font-size: 0.7rem;
   margin-top: 2vh;
 }
+
+#dots {
+  position: absolute;
+  width: 50%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 0.1;
+}
